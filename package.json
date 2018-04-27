@@ -1,0 +1,17 @@
+{
+  "name": "ang5scratch",
+  "version": "0.5.6",
+  "description": "Angular 5 project from scratch",
+  "author": "Csaba SZELL <szellcs@starschema.net>",
+  "private": true,
+  "scripts": {
+    "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
+    "start": "npm run dev"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  }
+}
